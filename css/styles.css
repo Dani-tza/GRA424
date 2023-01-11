@@ -34,3 +34,12 @@ ol {
     height: 100px;
     background: var(--black);
 }
+
+.page {
+    display: flex;
+    background: whitesmoke;
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+} 
+
