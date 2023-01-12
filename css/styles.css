@@ -60,3 +60,30 @@
     height: 14.285714vh;
     margin: auto;
 }
+
+
+
+
+.page3 {
+    display: flex;
+    background: #d3d3d3;
+    width: 100vw;
+    height: 100vh;
+}
+.square3 {
+    display: flex;
+    background: #fff;
+    width: 71.428571vw;
+    height: 71.428571vh;
+    margin: auto;
+}
+.inner3 {
+    display: flex;
+    background: #fff;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+    border-style: solid;
+    border-color: #d3d3d3;
+    border-width: 1px;
+}
