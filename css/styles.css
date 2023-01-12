@@ -87,3 +87,9 @@
     border-color: #d3d3d3;
     border-width: 1px;
 }
+
+.line {
+    width: 2.112vw;
+    height: 42.857143vh;
+    margin: auto;
+}
