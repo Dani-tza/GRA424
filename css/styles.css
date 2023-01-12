@@ -94,3 +94,19 @@
     margin: auto;
     background: #000;
 }
+
+.linefirst {
+    width: 2.112vw;
+    height: 42.857143vh;
+    margin: auto;
+    background: #000;
+    margin-left: 0;
+}
+
+.linelast {
+    width: 2.112vw;
+    height: 42.857143vh;
+    margin: auto;
+    background: #000;
+    margin-right: 0;
+}
