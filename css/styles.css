@@ -1,74 +1,33 @@
-html {
-    --black: #000000;
-    scroll-behavior: smooth;
-}
-
-h1 {
-    font-family: 'Source Sans', sans-serif;
-    color:#000000;
-    font-size: 30px;
-}
-
-h2 {
-    font-family: 'Source Sans', sans-serif;
-    color:#000000;
-    font-size: 20px;
-    padding-bottom: 1rem;
-}
-
-p {
-    font-family: 'Source Sans', sans-serif;
-    color:#000000;
-    font-size: 14.5px;
-    padding-bottom: 1rem;
-}
-
-ol {
-    font-family: 'Source Sans', sans-serif;
-    color:#000000;
-    font-size: 14.5px;
-}
-
 .page {
     display: flex;
-    background: whitesmoke;
+    background: #fff;
     width: 100vw;
     height: 100vh;
-    margin: auto;
-} 
-
+}
 .square {
     display: flex;
+    border-style: solid;
+    border-color: #000;
+    border-width: 1px;
     background: #fff;
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;
 }
-
 .inner {
     display: flex;
-    background: #fff;
+    background: #000;
     width: 42.857143vw;
     height: 42.857143vh;
     margin: auto;
 }
-
 .small {
     display: flex;
-    background: black;
+    background: #fff;
     width: 14.285714vw;
     height: 14.285714vh;
     margin: auto;
 }
-
-.page2 {
-    display: flex;
-    background: whitesmoke;
-    width: 100vw;
-    height: 100vh;
-    margin: auto;
-} 
-
 .square2 {
     display: flex;
     border-style: solid;
@@ -94,4 +53,4 @@ ol {
     width: 14.285714vw;
     height: 14.285714vh;
     margin: auto;
-}
+} 
