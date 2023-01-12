@@ -54,3 +54,10 @@
     height: 14.285714vh;
     margin: auto;
 } 
+
+.page {
+    display: flex;
+    background: #fff;
+    width: 100vw;
+    height: 100vh;
+}
