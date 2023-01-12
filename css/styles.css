@@ -15,7 +15,7 @@
 .inner {
     display: flex;
     border-style: solid;
-    border-color: #000;
+    border-color: #d3d3d3;
     border-width: 1px;
     width: 42.857143vw;
     height: 42.857143vh;
