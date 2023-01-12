@@ -29,12 +29,6 @@ ol {
     font-size: 14.5px;
 }
 
-.square {
-    width: 100px;
-    height: 100px;
-    background: var(--black);
-}
-
 .page {
     display: flex;
     background: whitesmoke;
@@ -43,3 +37,26 @@ ol {
     margin: auto;
 } 
 
+.square {
+    display: flex;
+    background: #000;
+    width: 71.428571vw;
+    height: 71.428571vh;
+    margin: auto;
+}
+
+.inner {
+    display: flex;
+    background: #fff;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+
+.small {
+    display: flex;
+    background: black;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    margin: auto;
+}
