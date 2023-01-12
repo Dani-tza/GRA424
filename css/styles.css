@@ -70,6 +70,9 @@ ol {
 } 
 
 .square2 {
+    border-style: solid;
+    border-color: #000;
+    border-width: 1px;
     display: flex;
     background: rgb(255, 255, 255);
     width: 71.428571vw;
@@ -78,6 +81,9 @@ ol {
 }
 
 .inner2 {
+    border-style: solid;
+    border-color: #000;
+    border-width: 1px;
     display: flex;
     background: black;
     width: 42.857143vw;
