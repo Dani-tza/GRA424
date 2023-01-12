@@ -7,7 +7,6 @@
 
 .square {
     display: flex;
-
     background: #fff;
     width: 71.428571vw;
     height: 71.428571vh;
@@ -42,7 +41,6 @@
 }
 .square2 {
     display: flex;
-
     background: #fff;
     width: 71.428571vw;
     height: 71.428571vh;
