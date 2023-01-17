@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 573.45 880.55">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect x="67.1" y="186.57" width="18.44" height="374.17"/>
+    <rect x="99.44" y="186.57" width="18.44" height="374.17"/>
+    <rect x="131.78" y="186.57" width="18.44" height="374.17"/>
+    <rect x="164.12" y="186.57" width="18.44" height="374.17"/>
+    <rect x="196.46" y="186.57" width="18.44" height="374.17"/>
+    <rect x="228.8" y="186.57" width="18.44" height="374.17"/>
+    <rect x="261.14" y="186.57" width="18.44" height="374.17"/>
+    <rect x="293.48" y="186.57" width="18.44" height="374.17"/>
+    <rect x="325.82" y="186.57" width="18.44" height="374.17"/>
+    <rect x="358.16" y="186.57" width="18.44" height="374.17"/>
+    <rect x="390.5" y="186.57" width="18.44" height="374.17"/>
+    <rect x="422.84" y="186.57" width="18.44" height="374.17"/>
+  </g>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <polygon class="cls-1" points="153.87 871.5 140.89 880.55 0 190.98 12.98 181.94 153.87 871.5"/>
+    <polygon class="cls-1" points="186.14 857.51 173.17 866.55 32.28 176.98 45.25 167.94 186.14 857.51"/>
+    <polygon class="cls-1" points="218.42 843.51 205.44 852.56 64.55 162.99 77.53 153.95 218.42 843.51"/>
+    <polygon class="cls-1" points="250.7 829.52 237.72 838.56 96.83 148.99 109.8 139.95 250.7 829.52"/>
+    <polygon class="cls-1" points="282.97 815.52 269.99 824.57 129.1 135 142.08 125.96 282.97 815.52"/>
+    <polygon class="cls-1" points="315.25 801.53 302.27 810.57 161.38 121 174.36 111.96 315.25 801.53"/>
+    <polygon class="cls-1" points="347.52 787.53 334.55 796.58 193.65 107.01 206.63 97.97 347.52 787.53"/>
+    <polygon class="cls-1" points="379.8 773.54 366.82 782.58 225.93 93.01 238.91 83.97 379.8 773.54"/>
+    <polygon class="cls-1" points="412.07 759.54 399.1 768.59 258.21 79.02 271.18 69.98 412.07 759.54"/>
+    <polygon class="cls-1" points="444.35 745.55 431.37 754.59 290.48 65.02 303.46 55.98 444.35 745.55"/>
+    <polygon class="cls-1" points="476.63 731.55 463.65 740.6 322.76 51.03 335.73 41.99 476.63 731.55"/>
+    <polygon class="cls-1" points="508.9 717.56 495.93 726.6 355.03 37.03 368.01 27.99 508.9 717.56"/>
+    <polygon class="cls-1" points="541.18 703.56 528.2 712.61 387.31 23.04 400.29 14 541.18 703.56"/>
+    <polygon class="cls-1" points="573.45 689.57 560.48 698.61 419.59 9.04 432.56 0 573.45 689.57"/>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <rect class="cls-1" x="67.24" y="186.57" width="374.17" height="124.72"/>
+    <rect class="cls-1" x="67.24" y="436.02" width="374.17" height="124.72"/>
+    <rect class="cls-1" x="66.74" y="311.3" width="124.72" height="124.72"/>
+    <rect class="cls-1" x="317.44" y="311.3" width="124.72" height="124.72"/>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <rect x="67.24" y="186.57" width="18.44" height="374.17"/>
+    <rect x="99.58" y="186.57" width="18.44" height="374.17"/>
+    <rect x="131.92" y="186.57" width="18.44" height="374.17"/>
+    <rect x="164.26" y="186.57" width="18.44" height="374.17"/>
+    <rect x="196.46" y="186.57" width="18.44" height="124.72"/>
+    <rect x="228.8" y="186.57" width="18.44" height="124.72"/>
+    <rect x="325.96" y="186.57" width="18.44" height="374.17"/>
+    <rect x="358.3" y="186.57" width="18.44" height="374.17"/>
+    <rect x="390.64" y="186.57" width="18.44" height="374.17"/>
+    <rect x="422.98" y="186.57" width="18.44" height="374.17"/>
+    <rect x="196.46" y="436.02" width="18.44" height="124.72"/>
+    <rect x="293.48" y="436.02" width="18.44" height="124.72"/>
+    <rect x="293.48" y="186.57" width="18.44" height="124.72"/>
+    <rect x="261.14" y="436.02" width="18.44" height="124.72"/>
+    <rect x="228.8" y="436.02" width="18.44" height="124.72"/>
+    <rect x="261.14" y="186.57" width="18.44" height="124.72"/>
+  </g>
+</svg>
