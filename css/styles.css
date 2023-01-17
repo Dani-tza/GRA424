@@ -117,3 +117,16 @@
     height: 80vh;
 }
 
+.page4 {
+    display: flex;
+    background: #d3d3d3;
+    width: 100vw;
+    height: 100vh;
+}
+.square4 {
+    display: flex;
+    background: #fff;
+    width: 71.428571vw;
+    height: 71.428571vh;
+    margin: auto;
+}
