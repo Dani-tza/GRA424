@@ -107,3 +107,13 @@
     background: #000;
     margin-right: 0;
 }
+
+.step22-01{
+    display: flex;
+    margin: auto;
+    padding-top: 8rem;
+    justify-content: center;
+    width: 80vw;
+    height: 80vh;
+}
+
