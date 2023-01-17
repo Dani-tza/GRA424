@@ -120,11 +120,9 @@
 .page4 {
     display: flex;
     background: #d3d3d3;
-    margin: auto;
-    padding-top: 8rem;
-    justify-content: center;
-    width: 80vw;
-    height: 80vh;
+    width: 100vw;
+    height: 100vh;
+    
 }
 .square4 {
     display: flex;
@@ -132,4 +130,6 @@
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;
+    padding-top: 8rem;
+    justify-content: center;
 }
