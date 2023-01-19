@@ -1,0 +1,91 @@
+.page {
+    display: flex;
+    background: #d3d3d3;
+    width: 100vw;
+    height: 100vh;
+}
+
+.square {
+    display: flex;
+    background: #fff;
+    width: 71.428571vw;
+    height: 71.428571vh;
+    margin: auto;
+}
+
+.inner {
+    display: flex;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    float: left;
+    flex-wrap: wrap;
+}
+
+.colorsquare1 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #d66b8c;
+}
+
+    .colorsquare2 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #159eb9;
+}
+
+    .colorsquare3 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #553d84;
+}
+
+.colorsquare4 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #f9d1bf;
+}
+
+.colorsquare5 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #f06630;
+}
+
+.colorsquare6 {
+display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #d52431;
+}
+
+.colorsquare7 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+     background-color: #968662;
+}
+
+.colorsquare8 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #25b374;
+}
+
+.colorsquare9 {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #925c5b;
+}
