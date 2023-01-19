@@ -1,0 +1,44 @@
+.page {
+    display: flex;
+    background: #d3d3d3;
+    width: 100vw;
+    height: 100vh;
+}
+
+.square3 {
+    display: flex;
+    background: #fff;
+    width: 71.428571vw;
+    height: 71.428571vh;
+    margin: auto;
+}
+.inner3 {
+    display: flex;
+    background: #fff;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+
+.line {
+    width: 2.112vw;
+    height: 42.857143vh;
+    margin: auto;
+    background: #000;
+}
+
+.linefirst {
+    width: 2.112vw;
+    height: 42.857143vh;
+    margin: auto;
+    background: #000;
+    margin-left: 0;
+}
+
+.linelast {
+    width: 2.112vw;
+    height: 42.857143vh;
+    margin: auto;
+    background: #000;
+    margin-right: 0;
+}
