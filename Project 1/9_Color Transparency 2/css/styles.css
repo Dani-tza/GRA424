@@ -1,0 +1,67 @@
+.page {
+    display: flex;
+    background: #d3d3d3;
+    width: 100vw;
+    height: 100vh;
+}
+
+.white-13cm-square {
+    display: flex;
+    background: #fff;
+    width: 71.428571vw;
+    height: 71.428571vh;
+    margin: auto;
+}
+
+.small-square-center {
+    display: flex;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    background-color: #dbdb5e;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 1;
+}
+
+.innermost-square {
+    width: 42.857143vw;
+    height: 42.857143vh;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.square-left {
+    width: 28.571428vw;
+    height: 28.571428vh;
+    background-color: #3b5aa8;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.square-right {
+    width: 28.571428vw;
+    height: 28.571428vh;
+    background-color: #ffe471;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
