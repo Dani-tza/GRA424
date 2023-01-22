@@ -1,0 +1,127 @@
+.page {
+    display: flex;
+    background: #d3d3d3;
+    width: 100vw;
+    height: 100vh;
+}
+
+.square2 {
+    display: flex;
+    background: #fff;
+    width: 71.428571vw;
+    height: 71.428571vh;
+    margin: auto;
+}
+
+.inner2 {
+    display: flex;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    float: left;
+    flex-wrap: wrap;
+}
+
+.small-container {
+    display: flex;
+    width: 100%;
+    float: left;
+    flex-wrap: wrap;
+}
+
+.colorsquare1 {
+    display: flex;
+    width: 21.4285715vw;
+    height: 21.4285715vh;
+    background-color: #f95a69;
+}
+
+.colorsquare2 {
+    display: flex;
+    width: 21.4285715vw;
+    height: 21.4285715vh;
+    background-color: #f7c0bf;
+}
+
+.colorsquare3 {
+    display: flex;
+    width: 21.4285715vw;
+    height: 21.4285715vh;
+    background-color: #f78d9d;
+}
+
+.colorsquare4 {
+    display: flex;
+    width: 21.4285715vw;
+    height: 21.4285715vh;
+    background-color: #f7a6a6;
+}
+
+.small-colorsquare1 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 7.1428571667vh;
+    background-color: #b79769;
+    position: absolute;
+    top: 46.4363%;
+    left: 46.45%;
+    transform: translate(-50%,-50%);
+    z-index: 1;
+    flex-wrap: wrap;
+}
+
+.small-colorsquare2 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 7.1428571667vh;
+    background-color: #c9ac85;
+    position: absolute;
+    top: 46.4363%;
+    left: 46.45%;
+    transform: translate(50%,-50%);
+    z-index: 1;
+    flex-wrap: wrap;
+}
+
+.small-colorsquare3 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 7.1428571667vh;
+    background-color: #e5cea5;
+    position: absolute;
+    top: 46.4363%;
+    left: 46.45%;
+    transform: translate(-50%,50%);
+    z-index: 1;
+    flex-wrap: wrap;
+}
+
+.small-colorsquare4 {
+    display: flex;
+    width: 7.1428571667vw;
+    height: 7.1428571667vh;
+    background-color: #d8b98f;
+    position: absolute;
+    top: 46.4363%;
+    left: 46.45%;
+    transform: translate(50%,50%);
+    z-index: 1;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,40 @@
+page {
+    display: flex;
+    background: #d3d3d3;
+    width: 100vw;
+    height: 100vh;
+}
+
+.webpagephoto {
+    display: flex;
+    background: #d3d3d3;
+}
+
+.photocontainer {
+    display: flex;
+    padding-top: 6.8rem;
+    padding-bottom: 6.8rem;
+    background: #d3d3d3;
+    margin: auto;
+}
+
+.photo {
+    width: 71.428571vw;
+    height: 71.428571vw;
+    position: relative;
+    display: inline-block;
+    margin: auto;
+}
+
+.photo .img-top {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 99;
+    margin: auto;
+}
+
+.photo:hover .img-top {
+    display: inline;
+} 
