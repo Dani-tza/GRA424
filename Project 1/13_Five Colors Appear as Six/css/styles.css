@@ -1,40 +1,49 @@
-page {
-    display: flex;
-    background: #d3d3d3;
-    width: 100vw;
-    height: 100vh;
-}
-
-.webpagephoto {
-    display: flex;
+body{
     background: #d3d3d3;
 }
 
+.page {
+    display: flex;
+    background: #d3d3d3;
+    height: 42.857143vh;
+}
 .photocontainer {
     display: flex;
+    width: 71.428571vw;
+    height: 42.857143vh;
     padding-top: 6.8rem;
     padding-bottom: 6.8rem;
     background: #d3d3d3;
     margin: auto;
 }
-
 .photo {
     width: 71.428571vw;
-    height: 71.428571vw;
+    height: 42.857143vh;
     position: relative;
     display: inline-block;
     margin: auto;
 }
-
 .photo .img-top {
     display: none;
+    width: 71.428571vw;
+    height: 42.857143vh;
     position: absolute;
     top: 0;
     left: 0;
     z-index: 99;
     margin: auto;
 }
-
+.img-bottom {
+    width: 71.428571vw;
+    height: 71.428571vh;
+    position: relative;
+    display: inline-block;
+    margin: auto;
+    
+}
 .photo:hover .img-top {
     display: inline;
-} 
+    width: 71.428571vw;
+    height: 71.428571vh;
+    margin: auto;
+}
