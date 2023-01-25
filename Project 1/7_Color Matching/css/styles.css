@@ -27,6 +27,21 @@
     flex-wrap: wrap;
 }
 
+.hover {
+    display: flex;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    position: absolute;
+    z-index: 1;
+}
+
+.hover img {
+    width: 42.857143vw;
+    height: 42.857143vh;
+    opacity: 0;
+    object-fit: cover;
+}
+
 .colorsquare1 {
     display: flex;
     width: 14.285714vw;
