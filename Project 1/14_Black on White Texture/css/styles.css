@@ -13,5 +13,24 @@
     margin: auto;
 }
 
+.inner {
+    display: flex;
+    background: #fff;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+    object-fit: cover;
+}
+
+.small {
+    position: absolute;
+    display: flex;
+    background: black;
+    width: 14.285714vw;
+    height: 14.285714vh;
+    margin: 28.571428vh 28.571428vw 28.571428vh 28.571428vw;
+    object-fit: cover;
+}
+
 
 

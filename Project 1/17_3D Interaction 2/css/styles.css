@@ -1,0 +1,24 @@
+.page {
+    display: flex;
+    background: #d3d3d3;
+    width: 100vw;
+    height: 100vh;
+    margin: auto;
+}
+
+.square {
+    display: flex;
+    background: #fff;
+    width: 71.428571vw;
+    height: 71.428571vh;
+    margin: auto;
+}
+
+.img1 {
+    width: 71.428571vw;
+    height: 71.428571vh;
+    position: relative;
+    display: inline-block;
+    margin: auto;
+    object-fit: cover;
+}
