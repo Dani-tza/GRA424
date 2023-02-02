@@ -8,17 +8,25 @@
 
 .square {
     display: flex;
-    background: #fff;
+    background: #000000;
     width: 71.428571vw;
     height: 71.428571vh;
     margin: auto;
 }
 
+.inner {
+    display: flex;
+    background: #000000;
+    width: 42.857143vw;
+    height: 42.857143vh;
+    margin: auto;
+}
+
 .img1 {
-    width: 71.428571vw;
-    height: 71.428571vh;
+    width: 42.857143vw;
+    height: 42.857143vh;
     position: relative;
     display: inline-block;
     margin: auto;
-    object-fit: cover;
+    object-fit: contain;
 }
